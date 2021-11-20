@@ -1,4 +1,4 @@
 # KNN-iris
-Prediction target of 'iris flower'
+Target prediction of 'iris flower'
 ## Author 
 [@chuthuyn](https://github.com/chuthuyn/)
